@@ -12,7 +12,7 @@ const server = {
 
 app.use('/graphql', GraphQLExpress({
     schema,
-    graphiql: true
+    graphiql: true,
 }));
 
 app.listen(server.port, () => {

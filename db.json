@@ -2,8 +2,8 @@
   "users": [
     {
       "id": "1",
-      "name": "Bill",
-      "age": 20,
+      "name": "Kowboy",
+      "age": 18,
       "companyId": "1"
     },
     {
@@ -19,7 +19,7 @@
       "companyId": "2"
     }
   ],
-  "companies" : [
+  "companies": [
     {
       "id": "1",
       "name": "Apple",
